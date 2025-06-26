@@ -10,6 +10,6 @@ spring:
 
 openrouteservice:
   api:
-    key: 5b3ce3597851110001cf6248fd94ee1949734381a341d8e084fd4857
+    key: super-secret
 
   
